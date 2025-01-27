@@ -245,16 +245,9 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rc6oZTqQvMGZMKsZHJq4-68" value="channel_descriptiom&amp;nbsp; VARCHAR" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="rc6oZTqQvMGZMKsZHJq4-66">
+        <mxCell id="rc6oZTqQvMGZMKsZHJq4-68" value="channel_name&amp;nbsp; VARCHAR" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="rc6oZTqQvMGZMKsZHJq4-66">
           <mxGeometry x="30" width="270" height="30" as="geometry">
             <mxRectangle width="270" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rc6oZTqQvMGZMKsZHJq4-101" value="" style="endArrow=ERone;startArrow=ERmany;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;startFill=0;entryX=0.52;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rc6oZTqQvMGZMKsZHJq4-47">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="560" as="sourcePoint" />
-            <mxPoint x="610" y="340" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rc6oZTqQvMGZMKsZHJq4-102" value="" style="endArrow=ERone;startArrow=ERmany;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;startFill=0;entryX=0.455;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rc6oZTqQvMGZMKsZHJq4-47" target="rc6oZTqQvMGZMKsZHJq4-24">
